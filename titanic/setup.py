@@ -16,7 +16,7 @@ setup(
     author_email = "gerard2314@gmail.com",
     description = "Analysis of the Titanic dataset",
     license = "MIT",
-    url = "https://github.com/gerard2314/titanic",
+    url = "https://github.com/gcardoso2314/titanic",
     packages=['titanic'],
     install_requires=[
         'pypandoc>=1.4',
